@@ -50,4 +50,4 @@
 - `best_aug_model.keras` - saved augmented CNN
 - `final_transfer_model.keras` - saved transfer learning model
 
-- The dataset is not included in the repo. Extract the three class zips into the same folder as the notebook before running it.
+The dataset is not included in the repo. Extract the three class zips into the same folder as the notebook before running it.
