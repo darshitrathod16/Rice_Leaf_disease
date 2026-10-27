@@ -43,11 +43,3 @@ With only about 40 images per class, a CNN trained from scratch cannot learn str
 
 Python, TensorFlow/Keras, NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
 
-## Files
-
-- `RiceLeaf_disease.ipynb` - full notebook with data loading, splitting, modeling, comparison report, and challenges report
-- `best_model.keras` - saved baseline CNN
-- `best_aug_model.keras` - saved augmented CNN
-- `final_transfer_model.keras` - saved transfer learning model
-
-The dataset is not included in the repo. Extract the three class zips into the same folder as the notebook before running it.
